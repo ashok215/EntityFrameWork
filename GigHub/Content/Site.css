@@ -22,3 +22,20 @@ select,
 textarea {
     max-width: 280px;
 }
+
+.field-validation-error, label.error
+{
+   color:red;
+}
+.input-validation-error,input.error{
+  border:2px solid red;
+   
+}
+.navbar-inverse {
+    background-color: #0b385f;
+    border-color: #fbfbfb;
+}
+ .navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus {
+    color: #ffffff;
+    background-color: #284d6d;
+}
