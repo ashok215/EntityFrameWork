@@ -83,3 +83,4 @@ c:\users\ashok s\documents\visual studio 2015\Projects\GigHub\GigHub\obj\Debug\G
 c:\users\ashok s\documents\visual studio 2015\Projects\GigHub\GigHub\obj\Debug\GigHub.Migrations.InitialModel.resources
 c:\users\ashok s\documents\visual studio 2015\Projects\GigHub\GigHub\obj\Debug\GigHub.csproj.GenerateResource.Cache
 c:\users\ashok s\documents\visual studio 2015\Projects\GigHub\GigHub\obj\Debug\GigHub.Migrations.populategenre.resources
+C:\Users\Ashok s\Documents\Visual Studio 2015\Projects\GigHub\GigHub\obj\Debug\GigHub.Migrations.AddforeignKey.resources
